@@ -23,6 +23,10 @@ sites:
     url: https://kiosk.ouptv.ru
   - name: TOCHKA TV RU
     url: https://tochka.ouptv.ru
+  - name: CHECKPERSON CAPTCHA
+    url: https://checkperson.ouptv.ru
+  - name: NETWORKTOOLS
+    url: https://networktools.ouptv.ru
     port: 80
     check: "tcp-ping"
     ipv6: true
