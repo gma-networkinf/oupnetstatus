@@ -11,10 +11,6 @@ sites:
     url: https://passport.ouptv.ru
   - name: OUP Player
     url: https://view.ouptv.ru
-  - name: Redirect domain ZERO
-    url: https://ouptv.ru
-  - name: Redirect domain WWW
-    url: https://www.ouptv.ru
   - name: GMA Customer Center
     url: https://customercenter.ouptv.ru
   - name: OUP Universe
@@ -23,10 +19,6 @@ sites:
     url: https://kiosk.ouptv.ru
   - name: TOCHKA TV RU
     url: https://tochka.ouptv.ru
-  - name: CHECKPERSON CAPTCHA
-    url: https://checkperson.ouptv.ru
-  - name: NETWORKTOOLS
-    url: https://networktools.ouptv.ru
     port: 80
     check: "tcp-ping"
     ipv6: true
